@@ -1,4 +1,4 @@
-## Submission for Final Project Comp 4304/ Charvi and Kunal Sikka
+## Submission for Final Project Comp 4304/ Charvi and Kunal Sikka.
 
 import dash
 from dash import dcc
